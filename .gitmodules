@@ -1,0 +1,4 @@
+[submodule "RL-OtherApps/odooplm"]
+	path = RL-OtherApps/odooplm
+	url = git@github.com:RL-OtherApps/odooplm.git
+	branch = 12.0
